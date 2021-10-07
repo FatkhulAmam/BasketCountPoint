@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Basket Pointer</string>
+    <string name="enter_team">Enter Team</string>
+    <string name="a_team">A Team</string>
+    <string name="b_team">B Team</string>
+    <string name="start">START</string>
+    <string name="score">0</string>
+    <string name="three_point">+ 3 Point</string>
+    <string name="two_point">+ 2 Point</string>
+    <string name="free_throw">+ Free Throw</string>
+</resources>
